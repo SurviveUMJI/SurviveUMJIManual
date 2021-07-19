@@ -1,5 +1,7 @@
-site_name: Survive UMJI Manual
+site_name: 密西根学院生存指南
 site_url: https://surviveumji.github.io/SurviveUMJIManual/
+repo_url: https://github.com/SurviveUMJI/SurviveUMJIManual/
+edit_uri: 'edit/master/docs'
 use_directory_urls: false
 plugins:
   - search:
@@ -8,6 +10,10 @@ plugins:
         - ja
 theme:
   name: material
+  language: zh
+  features:
+    - navigation.tracking
+    - navigation.expand
   palette:
     - scheme: default
       toggle:
@@ -17,3 +23,5 @@ theme:
       toggle:
         icon: material/lightbulb
         name: Switch to light mode
+extra:
+  disqus: surviveumjimanual
