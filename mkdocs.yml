@@ -27,3 +27,17 @@ theme:
         name: Switch to light mode
 extra:
   disqus: surviveumjimanual
+nav:
+  - index.md
+  - 本科生课程:
+    - 本科生课程/课程给分.md
+    - 本科生课程/精品课程/精品课程.md
+  - 本科生助教体系:
+    - 作为一名助教:
+      - 我们为什么会当助教:
+        - makersmelx: 本科生助教体系/作为一名助教/我们为什么会当助教/makersmelx.md
+      - 本科生助教体系/作为一名助教/认清自己的价值.md
+      - 本科生助教体系/作为一名助教/助教是什么.md
+    - 作为一名学生:
+      - 本科生助教体系/作为一名学生/助教是什么.md
+  - 关于.md
