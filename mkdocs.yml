@@ -16,6 +16,7 @@ theme:
   features:
     - navigation.tracking
     - navigation.expand
+    - navigation.tabs
   palette:
     - scheme: default
       toggle:
