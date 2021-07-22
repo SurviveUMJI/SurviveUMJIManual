@@ -25,8 +25,11 @@ theme:
       toggle:
         icon: material/lightbulb
         name: Switch to light mode
+  custom_dir: overrides
 extra:
   disqus: surviveumjimanual
+extra_javascript:
+    - '//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js'
 nav:
   - index.md
   - 本科生课程:
