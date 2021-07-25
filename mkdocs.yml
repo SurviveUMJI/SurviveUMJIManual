@@ -29,6 +29,10 @@ theme:
   custom_dir: overrides
 extra:
   disqus: surviveumjimanual
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/SurviveUMJI
+copyright: Copyright &copy; 2021 - 2021 SurviveUMJI
 extra_javascript:
     - '//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js'
 nav:
