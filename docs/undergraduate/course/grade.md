@@ -1,5 +1,7 @@
 # 课程给分
 
+##### By [@tc-imba](https://github.com/tc-imba)
+
 要了解课程给分，只需要参考历年的课程给分数据：
 
 ## <a href="https://surviveumji.github.io/ji-grade-analysis/" target="_blank">新窗使用</a>
@@ -8,6 +10,3 @@
 
 <iframe src="https://surviveumji.github.io/ji-grade-analysis/" title="ji-grade-analysis" width="100%" height="530px" frameborder="0" scrolling="yes"> </iframe>
 
-## 作者
-
-[@tc-imba](https://github.com/tc-imba)
