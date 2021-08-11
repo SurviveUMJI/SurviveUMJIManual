@@ -13,6 +13,6 @@
 - VE230 ([陈松良](https://www.ji.sjtu.edu.cn/cn/about/faculty-staff/faculty-directory/faculty-detail/83/)）
 - VE280 ([Paul Weng](https://www.ji.sjtu.edu.cn/cn/about/faculty-staff/faculty-directory/faculty-detail/138/))
 - VE311 ([杜长慶](https://www.ji.sjtu.edu.cn/cn/about/faculty-staff/faculty-directory/faculty-detail/126/))
-- VE320 ([杨睿](https://www.ji.sjtu.edu.cn/cn/about/faculty-staff/faculty-directory/faculty-detail/147/))
+- VE320 ([杨睿](https://www.ji.sjtu.edu.cn/cn/about/faculty-staff/faculty-directory/faculty-detail/147/), [但亚平](https://www.ji.sjtu.edu.cn/cn/about/faculty-staff/faculty-directory/faculty-detail/86/))
 - VE489 ([王旭东](https://www.ji.sjtu.edu.cn/cn/about/faculty-staff/faculty-directory/faculty-detail/136/))
 - VE492 ([Paul Weng](https://www.ji.sjtu.edu.cn/cn/about/faculty-staff/faculty-directory/faculty-detail/138/))
