@@ -8,7 +8,8 @@
 
 以下是一些公认的精品课程列表（TODO: 增加描述）
 
-- VE215 ([陈松良](https://www.ji.sjtu.edu.cn/cn/about/faculty-staff/faculty-directory/faculty-detail/83/))
+- VE215 ([陈松良](https://www.ji.sjtu.edu.cn/cn/about/faculty-staff/faculty-directory/faculty-detail/83/))  
+  作为第一门电路入门课，每个学生都是满怀着憧憬来到了早八的教室。显然，在教授极具人格魅力的授课技巧下，越来越多的同学已经完全提前掌握了知识，决定在寝室内或是睡梦中学习更有趣的电路知识。然而，为了让在那些阶梯教室中的学生不再孤单，更考虑到在让在睡梦中学习的同学多学习一会儿，为同学着想的陈老师便决定在第二节课随堂小测验，在让同学温故而知新的同时，仅用短短十分钟课间，重新使偌大的阶梯教室热闹了起来。
 - VE216 ([龙泳](https://www.ji.sjtu.edu.cn/cn/about/faculty-staff/faculty-directory/faculty-detail/102/))
 - VE230 ([陈松良](https://www.ji.sjtu.edu.cn/cn/about/faculty-staff/faculty-directory/faculty-detail/83/)）
 - VE280 ([Paul Weng](https://www.ji.sjtu.edu.cn/cn/about/faculty-staff/faculty-directory/faculty-detail/138/))
