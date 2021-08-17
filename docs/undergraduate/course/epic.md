@@ -11,7 +11,8 @@
 - VE215 ([陈松良](https://www.ji.sjtu.edu.cn/cn/about/faculty-staff/faculty-directory/faculty-detail/83/))  
   作为第一门电路入门课，每个学生都是满怀着憧憬来到了早八的教室。显然，在陈老师极具人格魅力的授课技巧下，越来越多的同学已经完全提前掌握了知识，决定在寝室内或是睡梦中学习更有趣的电路知识。然而，为了让在那些仍然在阶梯教室中苦思冥想的学生不再孤单，更考虑到在让在睡梦中学习的同学多一些学习的时间，为同学着想的陈老师便决定在第二节课随堂小测验，在让同学温故而知新的同时，仅用短短十分钟课间，重新使偌大的阶梯教室热闹了起来。
 - VE216 ([龙泳](https://www.ji.sjtu.edu.cn/cn/about/faculty-staff/faculty-directory/faculty-detail/102/))
-- VE230 ([陈松良](https://www.ji.sjtu.edu.cn/cn/about/faculty-staff/faculty-directory/faculty-detail/83/)）
+- VE230 ([陈松良](https://www.ji.sjtu.edu.cn/cn/about/faculty-staff/faculty-directory/faculty-detail/83/))  
+  电磁学的美妙，都藏匿于那简单但极具魅力的麦克斯韦公式之中。如何讲这优美的知识传授给学生，陈老师显然是比另一个section的Nana老师更富有经验。坐拥天时地利人和，陈老师的电磁学使每一位上课的学生印象深刻。所谓天时，陈老师的课往往在早八开授，一日之计在于晨，早八想必是学习电磁学的最好时机了。反观Nana老师的section，往往选择在下午或是晚上开授，想必学习了一天的密院学生在课堂上一定倍感疲倦。所谓地利，陈老师对于canvas上设置quiz的掌握，可谓是炉火纯青。一道道多选题的设置用心良苦，往往使学生们反复思索，最后的得分也时刻提醒着学生学海无涯。反观Nana老师的quiz，往往十分简易与朴素，作业与例题的原题出法，配合考试时印刷在试卷上的物理公式，居然使学生们轻而易举的就掌握了概念。这种不让学生过多做题的授课方式，对于时刻挑战自我的密院学生们来说，难免有些过于轻松快乐了。所谓人和，往往在选课初期就能体现出来。同样的人数限制，陈老师的section的人数一直十分有限，只有寥寥高精尖的物理人才，才会选择陈老师的课，如此一来，培养出的学生自然是一流的。而Nana老师的section在选课初期同学们就趋之若鹜，这种学生结构难免令人提出对授课的有效程度的疑问。
 - VE280 ([Paul Weng](https://www.ji.sjtu.edu.cn/cn/about/faculty-staff/faculty-directory/faculty-detail/138/))
 - VE311 ([杜长慶](https://www.ji.sjtu.edu.cn/cn/about/faculty-staff/faculty-directory/faculty-detail/126/))
 - VE320 ([杨睿](https://www.ji.sjtu.edu.cn/cn/about/faculty-staff/faculty-directory/faculty-detail/147/))
