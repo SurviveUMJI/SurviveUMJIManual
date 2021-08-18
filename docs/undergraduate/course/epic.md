@@ -16,6 +16,8 @@
 ## VE216 ([龙泳](https://www.ji.sjtu.edu.cn/cn/about/faculty-staff/faculty-directory/faculty-detail/102/))
 > 信号与系统处理 (Intro to Signals and Systems)
 
+信号与系统处理，作为一门在春季能让你花钱，但是让你摸不清是电路还是数学的课，如何利用有效的授课方式，使学生能最大程度上参与课堂，着实是一门学问。而经验老到的龙老师，便深谙此道，深刻贯彻着她常说的"get the knowledge by yourself"的教学精神。在你的课件中，穿插着一个个引人入胜的提问，而答案，便藏在龙老师的课件中。当你在课堂中一次又一次马不停蹄截屏的时候，自己与知识的距离仿佛更近了一步。同时，龙老师也是一名善于使用quiz检验你知识掌握程度的老师，对于她每周一次甚至多次的quiz的教学方式，有几位同学曾在网课中开麦表示支持，可见其教学模式的成功。更令人感动的是，为了使即将出国深造的同学拥有更好的英语听说能力，龙老师选择了一种最有特色英语发音的上课方式，同时用一个个"any question?"与同学们互动起来。
+
 ## VE230 ([陈松良](https://www.ji.sjtu.edu.cn/cn/about/faculty-staff/faculty-directory/faculty-detail/83/))
 > 电磁学 (Electromagnetics)
 
