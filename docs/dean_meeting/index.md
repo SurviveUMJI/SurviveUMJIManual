@@ -12,6 +12,8 @@
 
 以下是往年的一些推送报道。
 
+- 2021年秋:
+    - [https://mp.weixin.qq.com/s/VhIRE1PnmoUptP-7ug7NgQ](https://mp.weixin.qq.com/s/VhIRE1PnmoUptP-7ug7NgQ)
 - 2021年夏：
     - [https://mp.weixin.qq.com/s/GKquR8LZ3S7oQrC6vjcZNA](https://mp.weixin.qq.com/s/GKquR8LZ3S7oQrC6vjcZNA)
 - 2020年秋：
