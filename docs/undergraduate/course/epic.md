@@ -6,6 +6,8 @@
 
 根据上述提到的三个标准，我们可以简化这个问题。如果有这样一门课，这门课经历了时间的考验。无论学年，无论学期，明明是不同标准，年龄都不尽相同的学生们，却能够不约而同地对这门课持有相同的看法。我们应该如何定义这样的课？从笔者大学四年的经验来看，这样的课确实有，不过是少数派。我们不妨称这种课是精品课程。
 
+当然，如果寻求客观的数据，在有足够多的人参与评价以前，还是建议参考本站的[课程给分页面](https://surviveumji.github.io/SurviveUMJIManual/undergraduate/course/grade.html)。
+
 以下是一些公认的精品课程列表：（TODO: 增加描述）
 
 ## VE215/ECE2150J ([陈松良](https://www.ji.sjtu.edu.cn/cn/about/faculty-staff/faculty-directory/faculty-detail/83/))
